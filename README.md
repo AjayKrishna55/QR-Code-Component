@@ -1,4 +1,3 @@
-@@ -0,0 +1,79 @@
 
 # Frontend Mentor - QR code component solution
 
